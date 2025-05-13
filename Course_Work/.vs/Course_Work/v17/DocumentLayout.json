@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Course_Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\admin\\desktop\\course_work\\hospital.dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0C03F-A849-4AFC-ABA8-2ACE7ADF0ED2}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "Hospital.DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:48:02.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Patient.cs",
+              "RelativeToolTip": "Hospital.DAL\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:09.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Hospital.DAL\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:01.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Hospital.DAL\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:00.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\HospitalDbContext.cs",
+              "RelativeToolTip": "Hospital.DAL\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:45:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\IUnitOfWork.cs",
+              "RelativeToolTip": "Hospital.DAL\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:45:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "Hospital.DAL\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:45:55.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Hospital.DAL\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:08.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Course_Work\\Hospital.DAL\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Hospital.DAL\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:07.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
