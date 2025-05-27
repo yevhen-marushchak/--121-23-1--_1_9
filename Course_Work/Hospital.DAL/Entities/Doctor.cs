@@ -5,12 +5,11 @@ namespace Hospital.DAL.Entities
     public class Doctor
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public string Specialty { get; set; }
-        public bool IsAvailable { get; set; }
-        public string PhoneNumber { get; set; }
-
-        public ICollection<Appointment> Appointments { get; set; }
+        public string LastName { get; set; } = null!;
+        public string FirstName { get; set; } = null!;
+        public string Description { get; set; } = null!;
+        public int GroupId { get; set; }
+        public DoctorGroup Group { get; set; } = null!;
+        public ICollection<Appointment> Appointments { get; set; } = new List<Appointment>();
     }
 }

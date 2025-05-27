@@ -1,5 +1,4 @@
 ﻿using System.Threading.Tasks;
-using Hospital.DAL.Entities;
 using Hospital.DAL.Repositories;
 
 namespace Hospital.DAL
@@ -7,28 +6,24 @@ namespace Hospital.DAL
     public class UnitOfWork : IUnitOfWork
     {
         private readonly HospitalDbContext _context;
+        public IUserRepository Users { get; }
+        public IDoctorRepository Doctors { get; }
+        public IDoctorGroupRepository DoctorGroups { get; }
+        public IAppointmentRepository Appointments { get; }
 
-        public UnitOfWork(HospitalDbContext context)
+        public UnitOfWork(HospitalDbContext context,
+                          IUserRepository userRepo,
+                          IDoctorRepository doctorRepo,
+                          IDoctorGroupRepository groupRepo,
+                          IAppointmentRepository appointRepo)
         {
             _context = context;
-
-            Doctors = new Repository<Doctor>(context);
-            Patients = new Repository<Patient>(context);
-            Appointments = new Repository<Appointment>(context);
+            Users = userRepo;
+            Doctors = doctorRepo;
+            DoctorGroups = groupRepo;
+            Appointments = appointRepo;
         }
 
-        public IRepository<Doctor> Doctors { get; private set; }
-        public IRepository<Patient> Patients { get; private set; }
-        public IRepository<Appointment> Appointments { get; private set; }
-
-        public async Task<int> CompleteAsync()
-        {
-            return await _context.SaveChangesAsync();
-        }
-
-        public void Dispose()
-        {
-            _context.Dispose();
-        }
+        public Task<int> SaveChangesAsync() => _context.SaveChangesAsync();
     }
 }

@@ -1,15 +1,14 @@
-﻿using System;
-using System.Threading.Tasks;
-using Hospital.DAL.Entities;
+﻿using System.Threading.Tasks;
 using Hospital.DAL.Repositories;
 
 namespace Hospital.DAL
 {
-    public interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork
     {
-        IRepository<Doctor> Doctors { get; }
-        IRepository<Patient> Patients { get; }
-        IRepository<Appointment> Appointments { get; }
-        Task<int> CompleteAsync();
+        IUserRepository Users { get; }
+        IDoctorRepository Doctors { get; }
+        IDoctorGroupRepository DoctorGroups { get; }
+        IAppointmentRepository Appointments { get; }
+        Task<int> SaveChangesAsync();
     }
 }
